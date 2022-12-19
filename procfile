@@ -1,0 +1,1 @@
+web: gunicorn Lasp.wsgi --log-file -
